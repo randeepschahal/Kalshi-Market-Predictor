@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+matplotlib
+google-cloud-bigquery
+db-dtypes
+vaderSentiment
+sentence-transformers
+transformers
+torch
